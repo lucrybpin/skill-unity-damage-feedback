@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Damage Feedback"
+  short_description: "Integrate damage popups and rapid-hit audio in Unity"
+  default_prompt: "Use $skill-unity-damage-feedback to add damage popups and hit audio to this Unity project's existing combat events."
